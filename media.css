@@ -115,3 +115,7 @@
 .w3-auto {
     max-width: 100%}
 }
+
+.fit-img {
+object-fit: cover;
+}
